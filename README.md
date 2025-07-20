@@ -6,8 +6,8 @@
 
 ### **Live Application Screenshot**
 
-![Streamlit App Screenshot](charts/app_screenshot.png)
-![Streamlit App Screenshot](charts/app_screenshot.png)
+![Streamlit App Screenshot](https://github.com/Sourabh1710/Youtube-Virality-Prediction-Engine/blob/main/charts/Streamlit%20Upper%20Half.png)
+![Streamlit App Screenshot](https://github.com/Sourabh1710/Youtube-Virality-Prediction-Engine/blob/main/charts/Streamlit%20Lower%20Half.png)
 
 
 ---
@@ -83,14 +83,14 @@ The project follows a systematic end-to-end machine learning workflow:
 #### 1. Discovery of Indian YouTube Archetypes
 The clustering algorithm successfully identified four primary patterns of virality, providing a new lens through which to analyze content strategy.
 
-![Virality Archetypes Plot](charts/virality_archetypes_plot.png)
+![Virality Archetypes Plot](https://github.com/Sourabh1710/Youtube-Virality-Prediction-Engine/blob/main/charts/virality_archetypes_plot.png)
 
 #### 2. Diagnostic Power of the Classifier
 The XGBoost classifier achieved an initial accuracy of **43%**, significantly outperforming a random 25% baseline. More importantly, its confusion matrix serves as a powerful diagnostic tool, revealing:
 *   A strong performance in identifying the most common archetype, "The Standard Takeoff."
 *   A clear path for future improvement by addressing class imbalance, particularly for the rare "Niche Anomaly" archetype.
 
-![Confusion Matrix](charts/confusion_matrix.png)
+![Confusion Matrix](https://github.com/Sourabh1710/Youtube-Virality-Prediction-Engine/blob/main/charts/Confusion_Matrix.png)
 
 This analytical approach—diagnosing model weaknesses to inform the next iteration—is a core tenet of practical data science.
 
